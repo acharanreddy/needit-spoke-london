@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"95ca4d69-168a-4549-8679-fd597d101046.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"f07dd07c-b0dc-4e0a-ba1e-f79a5d1a4480.calculated_date","label":"1➛Calculated date","reference_display":"Calculated date","type":"glide_date","base_type":"glide_date"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-01 11:57:03</sys_created_on>
+        <sys_id>fe50feeedb8e2300aea164d74896192a</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_266338_needit_sp">0f7eaeeedb0e2300aea164d7489619f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">0f7eaeeedb0e2300aea164d7489619f8</sys_scope>
+        <sys_update_name>sys_hub_flow_fe50feeedb8e2300aea164d74896192a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-01 13:52:10</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_variable_value action="delete_multiple" query="document_key=fe50feeedb8e2300aea164d74896192a"/>
+</record_update>
